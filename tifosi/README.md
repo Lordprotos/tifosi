@@ -69,7 +69,3 @@ source backup_tifosi.sql
 | `02_create_tables.sql` | Création des tables et relations |
 | `03_insert_data.sql` | Insertion des données de test |
 | `backup_tifosi.sql` | Backup complet (structure + données) |
-
-## 👨‍💻 Auteur
-
-Projet réalisé dans le cadre d'un TP de base de données.
